@@ -86,10 +86,10 @@ let root = {
 
 // Configure Pusher client
 let pusher = new Pusher({
-  appId: "PUSHER_APP_ID",
-  key: "PUSHER_APP_KEY",
-  secret: "PUSHER_APP_SECRET",
-  cluster: "PUSHER_APP_CLUSTER",
+  appId: "797430",
+  key: "521a586f4aedc758cab8",
+  secret: "6cb5246aab4b0b2d930b",
+  cluster: "us3",
   encrypted: true
 });
 
