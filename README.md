@@ -5,8 +5,8 @@ In this version new posts are pushed from server manualy as there is no create p
 ```
 $ node server
 ```
-
-\$ npm start
+```
+$ npm start
 
 ```
 
@@ -18,4 +18,6 @@ $ node server
 - [GraphQL]
 - [ApolloClient]
 - [Pusher]
-```
+
+
+>next step: configure DB && image uploader
